@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957393712837",
+    "firebase_url": "https://sivanb-bd5de-default-rtdb.firebaseio.com",
+    "project_id": "sivanb-bd5de",
+    "storage_bucket": "sivanb-bd5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957393712837:android:6f022c73c33b8b9fb122ac",
+        "android_client_info": {
+          "package_name": "com.example.sivanb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957393712837-tto4s41j5g1q64s3hoqmoe3jhcqbu0mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4rvr3XHYFgr1tUC5D9a_a3Yjb1LIXvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957393712837-tto4s41j5g1q64s3hoqmoe3jhcqbu0mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
